@@ -1,0 +1,8 @@
+﻿  Client.cpp
+C:\Users\muham\source\repos\WindowsNetworking\WIN_Client\WIN_Client\Client.cpp(1,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  Kod üretiliyor
+  3 of 119 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  WIN_Client.vcxproj -> C:\Users\muham\source\repos\WindowsNetworking\WIN_Client\x64\Release\WIN_Client.exe

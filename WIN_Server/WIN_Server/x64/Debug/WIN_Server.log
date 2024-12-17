@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\muham\source\repos\WindowsNetworking\WIN_Server\WIN_Server\Server.cpp(1,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\muham\source\repos\WindowsNetworking\WIN_Server\WIN_Server\Server.cpp(3,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  WIN_Server.vcxproj -> C:\Users\muham\source\repos\WindowsNetworking\WIN_Server\x64\Debug\WIN_Server.exe

@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\muham\source\repos\WindowsNetworking\WIN_Client\WIN_Client\Client.cpp(1,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  WIN_Client.vcxproj -> C:\Users\muham\source\repos\WindowsNetworking\WIN_Client\x64\Debug\WIN_Client.exe

@@ -1,0 +1,9 @@
+﻿  Server.cpp
+C:\Users\muham\source\repos\WindowsNetworking\WIN_Server\WIN_Server\Server.cpp(1,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+C:\Users\muham\source\repos\WindowsNetworking\WIN_Server\WIN_Server\Server.cpp(3,10): warning C4067: ön işlemci yönergesinden sonra beklenmeyen belirteçler var - satır sonu bekleniyordu
+  Kod üretiliyor
+  0 of 80 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  WIN_Server.vcxproj -> C:\Users\muham\source\repos\WindowsNetworking\WIN_Server\x64\Release\WIN_Server.exe
